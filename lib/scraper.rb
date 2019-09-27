@@ -7,4 +7,4 @@ doc = Nokogiri::HTML(html)
 
 puts doc.css(".headline-26OIBN").text
 
-puts doc.css(".inline")
+puts doc.css(".inlineMobileLeft-2Yo002.imageTextBlockGrid3-2XAK6G")
