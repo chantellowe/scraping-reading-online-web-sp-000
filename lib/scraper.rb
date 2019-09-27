@@ -13,4 +13,4 @@ courses.each do |course|
   puts course.text.strip
 end
 
-p courses[0]
+p courses[0].name 
